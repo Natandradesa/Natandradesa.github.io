@@ -30,6 +30,9 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
+   - icon: at-symbol
+    url: 'jnas@cin.ufpe.br'
+    label: E-mail Me
   - icon: brands/github
     url: https://github.com/Natandradesa
   - icon: brands/linkedin
@@ -41,9 +44,9 @@ profiles:
 
 interests:
   - Clustering
+  - Co-clustering
   - Machine Learning
   - Symbolic Data Analysis
-  - Computational Intelligence
   - Statistics
 
 education:
@@ -174,6 +177,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Biography
 
-I am a Ph.D. student in Computer Science at the Center for Informatics (CIn) of the Federal University of Pernambuco (UFPE). My research focuses on Computational Intelligence, where I develop clustering and co-clustering algorithms based on kernel functions. I received my Master’s degree in Computer Science from the same institution and earned my Bachelor’s degree in Statistics from the Federal University of Paraíba (UFPB). My interests include topics related to Artificial Intelligence and Machine Learning, with a focus on clustering, regression, and symbolic data analysis.
+I am a Ph.D. student in Computer Science at the [Center for Informatics (CIn)](https://portal.cin.ufpe.br/) of the [Federal University of Pernambuco (UFPE)](https://www.ufpe.br/). My research focuses on Computational Intelligence, where I develop clustering and co-clustering algorithms based on kernel functions. I received my Master’s degree in Computer Science from the same institution and earned my Bachelor’s degree in Statistics from the [Statistics Department (DE)](https://www.ufpb.br/de) at the [Federal University of Paraíba (UFPB)](https://www.ufpb.br/). My interests include topics related to Artificial Intelligence and Machine Learning, with a focus on clustering, co-clustering, regression, and symbolic data analysis.
