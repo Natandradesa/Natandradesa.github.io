@@ -59,29 +59,25 @@ education:
 
   - area: MSc in Computer Science
     institution: Federal University of Pernambuco
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-05-01
+    date_end: 2023-03-01
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: '[https://repositorio.ufpe.br/bitstream/123456789/49514/1/DISSERTA%C3%87%C3%83O%20Jos%C3%A9%20Nataniel%20Andrade%20de%20S%C3%A1.pdf]'
     summary: |
-      GPA: 3.8/4.0
+      In my Master’s program, I developed co-clustering methods based on the Gaussian kernel for the fuzzy clustering approach. We proposed a baseline model that uses only the Gaussian kernel as a       dissimilarity measure. In addition, we proposed two variants that automatically compute variable (attribute) weights. One of the models considers a global weight, meaning that the weights          are the same for all object clusters, while the other considers local weights, meaning that each variable has a specific weight for each object cluster. Experiments performed with both synthetic and real datasets, in comparison with state-of-the-art co-clustering and conventional clustering algorithms, showed the effectiveness of the proposed algorithms.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc in Statistics
     institution: Federal University of Paraíba
     date_start: 2016-07-01
     date_end: 2020-06-01
+    button:
+      text: 'Read Thesis'
+      url: '[https://repositorio.ufpb.br/jspui/bitstream/123456789/17254/1/JNAS07042020.pdf]'
     summary: |
-      GPA: 3.4/4.0
+      In my undergraduate thesis, I studied and developed kernel-based clustering algorithms for interval-valued data. Interval-valued data is a type of Symbolic Data — a field of research   associated with statistics and artificial intelligence that deals with multi-valued data, such as histograms, intervals, and lists. This type of data emerges as an alternative to conventional aggregation methods (mean, median, and mode) to account for variability. It is particularly useful when analyzing groups of individuals rather than single individuals — for example, when we have information about patients but aim to describe and analyze hospitals.
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
