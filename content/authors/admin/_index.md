@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: José Nataniel A. de Sá
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: José Nataniel
+last_name: Sá
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,49 +20,44 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Student in Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Center for Informatics (CIn-UFPE)
+    url: https://portal.cin.ufpe.br/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Natandradesa
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/nataniel-andrade-60149a182/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com.br/citations?user=LYTuc3QAAAAJ&hl
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0009-0006-1284-3568
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Clustering
+  - Machine Learning
+  - Symbolic Data Analysis
+  - Computational Intelligence
+  - Statistics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD candidate in computer Science
+    institution: Federal University of Pernambuco
+    date_start: 2023-03-01
+    date_end: ''
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MSc in Computer Science
+    institution: Federal University of Pernambuco
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -72,10 +67,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc in Statistics
+    institution: Federal University of Paraíba
+    date_start: 2016-07-01
+    date_end: 2020-06-01
     summary: |
       GPA: 3.4/4.0
       
@@ -143,11 +138,9 @@ skills:
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
+    percent: 50
   - name: Portuguese
-    percent: 25
+    percent: 95
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +176,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. student in Computer Science at the Center for Informatics (CIn) of the Federal University of Pernambuco (UFPE). My research focuses on Computational Intelligence, where I develop clustering and co-clustering algorithms based on kernel functions. I received my Master’s degree in Computer Science from the same institution and earned my Bachelor’s degree in Statistics from the Federal University of Paraíba (UFPB). My interests include topics related to Artificial Intelligence and Machine Learning, with a focus on clustering, regression, and symbolic data analysis.
