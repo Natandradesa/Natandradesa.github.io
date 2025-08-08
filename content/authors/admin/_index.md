@@ -55,14 +55,15 @@ education:
     date_start: 2023-03-01
     date_end: ''
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      In my Ph.D., I study clustering methods, with a particular focus on co-clustering algorithms. My doctoral research aims to develop co-clustering algorithms based on kernel functions. So far, we have published a paper in the journal [IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91) and presented another one at the [ 2025 International Conference on Fuzzy Systems (FUZZ-IEEE 2025)](https://fuzzieee2025.conf.lip6.fr/). I am advised by Professor Dr. [Francisco de Assis Tenório de Carvalho](https://www.cin.ufpe.br/~fatc/) and co-advised by Professor Dr. [Marcelo Rodrigo Portela Ferreira](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=1584539).
+
   - area: MSc in Computer Science
     institution: Federal University of Pernambuco
     date_start: 2016-01-01
     date_end: 2020-12-31
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
     summary: |
       GPA: 3.8/4.0
 
