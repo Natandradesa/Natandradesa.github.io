@@ -117,7 +117,7 @@ skills:
         description: ''
         percent: 80
         #icon: chart-bar
-        icon: custom/datascience
+        icon: custom/datascience1
       - name: R
         description: ''
         percent: 70
