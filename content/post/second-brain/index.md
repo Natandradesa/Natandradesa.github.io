@@ -10,14 +10,13 @@ tags:
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
+This news was previously published in Portuguese by the [Center for Informatics (CIn-UFPE)](https://portal.cin.ufpe.br/). This is the English version. The link to the original article can be found [here] (https://portal.cin.ufpe.br/2025/08/08/pesquisa-de-doutorado-do-cin-ufpe-recebe-o-premio-de-segundo-melhor-artigo-na-fuzz-ieee/).
 
-Create a personal knowledge base and share your knowledge with your peers.
+From July 6 to 9, the *IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2025)* took place in France — one of the leading international conferences in the field of fuzzy systems, which apply multivalued logic to handle uncertain values. During the event, José Nataniel Andrade de Sá, a Ph.D. student at the Center for Informatics (CIn) of the Federal University of Pernambuco (UFPE), presented his paper “A Dual-Weighted Gaussian Kernel-Based Method for Fuzzy Co-Clustering.” The research was recognized with the Second Best Paper Award at the conference.
 
-Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.
+The paper was co-authored by Professors Francisco de Assis Tenório de Carvalho (CIn-UFPE) and Marcelo Rodrigo Portela Ferreira (UFPB) and proposes a novel co-clustering algorithm for the fuzzy clustering approach. This model enables the simultaneous grouping of objects and variables, establishing relationships between subsets that contain similar elements. The method, based on the Gaussian kernel function, employs an automatic weighting scheme that reduces the impact of noisy data, making it particularly useful in areas such as healthcare, text mining, and content recommendation.
 
-Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.
-
-Use it as your second brain, either publicly sharing your knowledge with your peers via your website, or via a private GitHub repository and password-protected site just for yourself.
+Organized by the Institute of Electrical and Electronics Engineers (IEEE), the conference highlights the excellence and quality of the research conducted at CIn. According to José, the academic environment provided by the Center, along with financial support and the guidance of Professor Francisco, was essential to achieving the high-quality results obtained in the development of the paper. Congratulations to the authors!
 
 ## Mindmaps
 
