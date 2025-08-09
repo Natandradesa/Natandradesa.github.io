@@ -111,31 +111,43 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
+        #icon: code-bracket
+        icon: customs/python
       - name: Data Science
         description: ''
         percent: 80
-        icon: chart-bar
+        #icon: chart-bar
+        icon: customs/datascience
       - name: R
         description: ''
         percent: 70
-        icon: r-project
-  #- name: Hobbies
-  #  color: '#eeac02'
-  #  color_border: '#f0bf23'
-  #  items:
-  #    - name: Hiking
-  #      description: ''
-  #      percent: 60
-  #      icon: person-simple-walk
-  #    - name: Cats
-  #      description: ''
-  #     percent: 100
-  #      icon: cat
-  #    - name: Photography
-  #      description: ''
-  #      percent: 80
-  #     icon: camera
+        #icon: r-project
+        icon: cutoms/r_language
+      - name: Statistics
+        description: ''
+        percent: 70
+        icon: customs/statistics
+        
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Running
+        description: ''
+        percent: 60
+        icon: customs/running
+      - name: Gym
+        description: ''
+        percent: 100
+        icon: customs/gym
+      - name: Reading
+        description: ''
+        percent: 80
+        icon: customs/reading
+      - name: Church
+        description: ''
+        percent: 80
+        icon: customs/church
 
 languages:
   - name: English
