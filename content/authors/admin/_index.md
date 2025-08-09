@@ -114,12 +114,12 @@ skills:
         icon: code-bracket
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-bar
-      - name: SQL
+      - name: R
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 70
+        icon: r-project
   #- name: Hobbies
   #  color: '#eeac02'
   #  color_border: '#f0bf23'
