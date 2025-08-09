@@ -8,6 +8,7 @@ date: '2025-06-01'
 publishDate: '2025-08-08T10:22:44.952638Z'
 publication_types:
 - article-journal
+publication: "IEEE Transactions on Fuzzy Systems"
 doi: 10.1109/TFUZZ.2025.3546802
 abstract: Co-clustering algorithms separate a data matrix in blocks, by grouping,
   simultaneously, objects according to variables and variables according to objects,
