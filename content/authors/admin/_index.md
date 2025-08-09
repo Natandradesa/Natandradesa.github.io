@@ -50,7 +50,7 @@ interests:
   - Statistics
 
 education:
-  - area: PhD candidate in computer Science, 2023-present
+  - area: PhD candidate in computer Science
     institution: Federal University of Pernambuco
     date_start: 2023-03-01
     date_end: ''
@@ -58,7 +58,7 @@ education:
       In my Ph.D., I study clustering methods, with a particular focus on co-clustering algorithms. My doctoral research aims to develop co-clustering algorithms based on kernel functions. So far, we have published a paper in the journal [IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91) and presented another one at the [ 2025 International Conference on Fuzzy Systems (FUZZ-IEEE 2025)](https://fuzzieee2025.conf.lip6.fr/). I am advised by Professor Dr. [Francisco de Assis Tenório de Carvalho](https://www.cin.ufpe.br/~fatc/) and co-advised by Professor Dr. [Marcelo Rodrigo Portela Ferreira](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=1584539).
 
 
-  - area: MSc in Computer Science, 2023
+  - area: MSc in Computer Science
     institution: Federal University of Pernambuco
     date_start: 2021-05-01
     date_end: 2023-03-01
@@ -68,7 +68,7 @@ education:
     summary: |
       In my Master’s program, I developed co-clustering methods based on the Gaussian kernel for the fuzzy clustering approach. We proposed a baseline model that uses only the Gaussian kernel as a       dissimilarity measure. In addition, we proposed two variants that automatically compute variable (attribute) weights. One of the models considers a global weight, meaning that the weights          are the same for all object clusters, while the other considers local weights, meaning that each variable has a specific weight for each object cluster. Experiments performed with both synthetic and real datasets, in comparison with state-of-the-art co-clustering and conventional clustering algorithms, showed the effectiveness of the proposed algorithms.
 
-  - area: BSc in Statistics, 2020
+  - area: BSc in Statistics
     institution: Federal University of Paraíba
     date_start: 2016-07-01
     date_end: 2020-06-01
