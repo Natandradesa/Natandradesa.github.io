@@ -118,50 +118,17 @@ sections:
   #    # Reduce spacing
   #    spacing:
   #      padding: [0, 0, 0, 0]
-  - block: contact
-    id: contact
+
+  - block: markdown
     content:
-      title: Contact
-      # subtitle:
-      # text: |-
-      # Contact (add or remove contact options as necessary)
-      email: 'jnas@cin.ufpe.br'
-      address:
-        street: Av. Jornalista Anibal Fernandes, s/n.
-        city: Recife
-        region: PE
-        postcode: '50740-560'
-        country: Brazil
-        country_code: BR
-      # directions: Enter main Building A and take the stairs on the left to Office B-205, on the second floor.
-      office_hours: No fixed office hours; please email or chat to book an appointment
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '-8.055278501385974'
-        longitude: '-34.95138364801885'
-      # contact_links:
-        # - icon: twitter
-        #   icon_pack: fab
-        #   name: DM Me
-        #   link: 'https://twitter.com/Twitter'
-        # - icon: skype
-        #   icon_pack: fab
-        #   name: Skype Me
-        #   link: 'skype:echo123?call'
-        # - icon: video
-        #   icon_pack: fas
-        #   name: Zoom Me
-        #   link: 'https://zoom.com'
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      # form:
-      #   provider: netlify
-      #   formspree:
-      #     id:
-      #   netlify:
-      #     # Enable CAPTCHA challenge to reduce spam?
-      #     captcha: false
+      title: '📚 My Research'
+      subtitle: ''
+      text: |-
+        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+  
+        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        
+        Please reach out to collaborate 😃
     design:
-      columns: '2'
+      columns: '1'
 ---
