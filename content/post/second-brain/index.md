@@ -9,6 +9,7 @@ authors:
 #  - Markdown
 image:
   caption: 'Image credit: [**CIn-UFPE**](https://portal.cin.ufpe.br/)'
+  focal_point: Right
 ---
 This news was previously published in Portuguese by the [Center for Informatics (CIn-UFPE)](https://portal.cin.ufpe.br/). This is the English version. The link to the original article can be found [here](https://portal.cin.ufpe.br/2025/08/08/pesquisa-de-doutorado-do-cin-ufpe-recebe-o-premio-de-segundo-melhor-artigo-na-fuzz-ieee/).
 
