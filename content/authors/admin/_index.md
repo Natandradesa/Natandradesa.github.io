@@ -112,21 +112,21 @@ skills:
         description: ''
         percent: 80
         #icon: code-bracket
-        icon: custom/python
+        icon: custom/python1
       - name: Data Science
         description: ''
         percent: 70
         #icon: chart-bar
-        icon: custom/datascience
+        icon: custom/datascience1
       - name: R
         description: ''
         percent: 70
         #icon: r-project
-        icon: custom/r_language
+        icon: custom/r_language1
       - name: Statistics
         description: ''
         percent: 80
-        icon: custom/statistics
+        icon: custom/statistics1
         
   - name: Hobbies
     color: '#eeac02'
@@ -135,19 +135,19 @@ skills:
       - name: Running
         description: ''
         percent: 50
-        icon: custom/running
+        icon: custom/running1
       - name: Gym
         description: ''
         percent: 70
-        icon: custom/gym
+        icon: custom/gym1
       - name: Reading
         description: ''
         percent: 40
-        icon: custom/reading
+        icon: custom/reading1
       - name: Church
         description: ''
         percent: 70
-        icon: custom/church
+        icon: custom/church1
 
 languages:
   - name: English
