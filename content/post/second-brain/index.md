@@ -1,6 +1,6 @@
 ---
 title: Second Best Paper Award at the IEEE Conference on Fuzzy Systems 2025
-summary: The paper entitled *A Dual-Weighted Gaussian Kernel-Based Method for Fuzzy Co-Clustering* was recognized as one of the best papers at the conference, ranking second overall.
+summary: The paper entitled "A Dual-Weighted Gaussian Kernel-Based Method for Fuzzy Co-Clustering" was recognized as one of the best papers at the conference, ranking second overall.
 date: 2025-08-09
 authors:
   - admin
