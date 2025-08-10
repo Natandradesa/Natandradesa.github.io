@@ -8,7 +8,7 @@ date: '2025-10-14'
 publishDate: '2025-08-08T10:22:44.941846Z'
 publication_types:
 - article-journal
-publication: "Neurocomputing"
+publication: "*Neurocomputing*"
 doi: 10.1016/j.neucom.2025.130849
 abstract: Symbolic Data Analysis (SDA) is a field associated with statistics and artificial
   intelligence that deals with multi-valued data, such as histograms, intervals, and
