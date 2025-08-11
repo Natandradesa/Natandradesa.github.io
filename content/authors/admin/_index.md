@@ -85,7 +85,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2020-08-01
-    date_end: '2022'-07-31
+    date_end: 2022-07-31
     summary: |2-
       Responsibilities include:
       - Data collection
