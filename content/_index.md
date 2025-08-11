@@ -92,6 +92,7 @@ sections:
       view: article-grid
       columns: 1
   - block: markdown
+    id: contact
     content:
       title: "Get In Touch"
       text: |
