@@ -99,6 +99,18 @@ sections:
         **Telefone:** +55 (11) 99999-9999  
         **Endereço:** Rua Exemplo, 123 - São Paulo, SP
     
+  - block: markdown
+    content:
+      title: "Get In Touch"
+      text: |
+        **Email:** [meuemail@exemplo.com](mailto:meuemail@exemplo.com)  
+        **Telefone:** +55 (11) 99999-9999  
+        **Endereço:** Rua Exemplo, 123 - São Paulo, SP  
+
+        <a href="mailto:meuemail@exemplo.com" class="btn btn-primary">
+          <i class="fas fa-envelope"></i> Mail me
+        </a>
+    
   #- block: collection
   #  id: news
   #  content:
