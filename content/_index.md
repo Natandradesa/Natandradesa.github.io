@@ -66,10 +66,10 @@ sections:
         exclude_featured: false
     design:
       view: citation
-      background:
-        gradient_start: '#004ba0'
-        gradient_end: '#1976d2'
-        text_color_light: false
+      #background:
+      #  gradient_start: '#004ba0'
+      #  gradient_end: '#1976d2'
+      #  text_color_light: false
   #- block: collection
   #  id: talks
   #  content:
