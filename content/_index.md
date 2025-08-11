@@ -67,8 +67,8 @@ sections:
     design:
       view: citation
       background:
-        gradient_end: '#1976d2'
         gradient_start: '#004ba0'
+        gradient_end: '#1976d2'
         text_color_light: true
   #- block: collection
   #  id: talks
