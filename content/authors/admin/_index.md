@@ -163,7 +163,7 @@ languages:
 awards:
   - title: 'Second Best Paper Award at the 2025 IEEE Conference on Fuzzy Systems'
     url: https://fuzzieee2025.conf.lip6.fr/awards/
-    certificate_url: https://www.datacamp.com
+    certificate_url: https://github.com/Natandradesa/Natandradesa.github.io/blob/main/static/uploads/certificado.pdf
     date: '2025-07-09'
     awarder: FUZZ IEEE 2025
     icon: custom/ieee
