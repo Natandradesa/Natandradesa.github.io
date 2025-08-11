@@ -91,6 +91,13 @@ sections:
     design:
       view: article-grid
       columns: 1
+  - block: markdown
+    content:
+      title: "Get In Touch"
+      text: |
+        **Email:** [jnas@cin.ufpe.br](mailto:jnas@cin.ufpe.br)  
+        **Telefone:** +55 (11) 99999-9999  
+        **Endereço:** Rua Exemplo, 123 - São Paulo, SP
     
   #- block: collection
   #  id: news
