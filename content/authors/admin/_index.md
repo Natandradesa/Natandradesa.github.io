@@ -166,7 +166,7 @@ awards:
     certificate_url: https://github.com/Natandradesa/Natandradesa.github.io/blob/main/static/uploads/certificado.pdf
     date: '2025-07-09'
     awarder: FUZZ IEEE 2025
-    icon: custom/ieee
+    #icon: custom/ieee
     summary: |
       The paper entitled *“A Dual-Weighted Gaussian Kernel-Based Method for Fuzzy Co-Clustering”*, authored by José Nataniel Andrade de Sá, Marcelo Rodrigo Portela Ferreira, and Francisco de Assis Tenório de Carvalho, was presented at the *2025 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2025)*, held from July 6 to 9 in Reims, France. The paper was nominated for the conference’s Best Paper Award, achieving second place overall.
 ---
