@@ -96,7 +96,7 @@ sections:
     content:
       title: "Get In Touch"
       text: |
-        Whether you have questions about my work, are seeking collaboration, or simply wish to connect, please do not hesitate to contact me at [jnas@cin.ufpe.br](mailto:jnas@cin.ufpe.br). I will do my best to respond promptly.
+        Whether you have questions about my work, are seeking collaboration, or simply wish to connect, please feel free to contact me at <span style="color: #0077cc;">jnas@cin.ufpe.br</span> or through other means of contact listed in my bio. I will do my best to respond promptly.
     
   #- block: collection
   #  id: news
