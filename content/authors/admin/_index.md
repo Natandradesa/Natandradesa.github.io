@@ -80,28 +80,29 @@ education:
       
     
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Consultor ad hoc
+    company_name: Observatório de Síndromes Respiratórias da UFPB
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2020-08-01
+    date_end: '2022'-07-31
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Data collection
+      - Data preprocessing
+      - Statistical analysis
+      - Forecast of the number of cases and deaths from COVID-19
+  - position: Intern in statistics
+    company_name: Procon Municipal de João Pessoa
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-08-01
+    date_end: 2020-07-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Data collection
+      - Data preprocessing
+      - Statistical analysis
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
