@@ -95,21 +95,9 @@ sections:
     content:
       title: "Get In Touch"
       text: |
+        Whether you have questions about my work, are seeking collaboration, or simply wish to connect, please do not hesitate to contact me.
         **Email:** [jnas@cin.ufpe.br](mailto:jnas@cin.ufpe.br)  
-        **Telefone:** +55 (11) 99999-9999  
-        **Endereço:** Rua Exemplo, 123 - São Paulo, SP
-    
-  - block: markdown
-    content:
-      title: "Get In Touch"
-      text: |
-        **Email:** [meuemail@exemplo.com](mailto:meuemail@exemplo.com)  
-        **Telefone:** +55 (11) 99999-9999  
-        **Endereço:** Rua Exemplo, 123 - São Paulo, SP  
-
-        <a href="mailto:meuemail@exemplo.com" class="btn btn-primary">
-          <i class="fas fa-envelope"></i> Mail me
-        </a>
+        **Endereço:** Av. Jornalista Anibal Fernandes, s/n., Recife, PE 50740-560
     
   #- block: collection
   #  id: news
