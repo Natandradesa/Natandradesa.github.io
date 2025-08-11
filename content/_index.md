@@ -95,9 +95,7 @@ sections:
     content:
       title: "Get In Touch"
       text: |
-        Whether you have questions about my work, are seeking collaboration, or simply wish to connect, please do not hesitate to contact me.
-        **Email:** [jnas@cin.ufpe.br](mailto:jnas@cin.ufpe.br)  
-        **Endereço:** Av. Jornalista Anibal Fernandes, s/n., Recife, PE 50740-560
+        Whether you have questions about my work, are seeking collaboration, or simply wish to connect, please do not hesitate to contact me at [jnas@cin.ufpe.br](mailto:jnas@cin.ufpe.br). I will do my best to respond promptly.
     
   #- block: collection
   #  id: news
