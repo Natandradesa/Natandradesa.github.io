@@ -19,12 +19,11 @@ main:
   - name: Experience
     url: experience/
     #url: /#experience
-    #weight: 20
-    weight: 14
+    weight: 20
+    #weight: 14
   - name: Contact
-    url: experience/
     url: /#contact
-    weight: 15
+    weight: 14
   #- name: Projects
   #  url: projects/
   #  weight: 30
